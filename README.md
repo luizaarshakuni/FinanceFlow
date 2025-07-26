@@ -16,7 +16,11 @@ The project demonstrates clean layout, adaptive styling, and mobile-first respon
 - Figma (UI/UX design)
 
 ## Demo Videos
+[demo_desktop.webm](https://github.com/user-attachments/assets/ab6ab96e-447f-4c3e-bc00-dcfccce14279)
 
-<video src="https://github.com/user-attachments/assets/a4d5fa56-953c-48f4-ad78-5222bcdba472" width="100%" controls></video>
-<video src="https://github.com/user-attachments/assets/c9cc3e14-38f6-4996-a66e-d79d2c793037" width="100%" controls></video>
-<video src="https://github.com/user-attachments/assets/43627ec1-00df-4232-bddb-2d1566f14981" width="100%" controls></video>
+[demo_tablet.webm](https://github.com/user-attachments/assets/de865c4e-6b15-4e74-be5e-5b8656a3878c)
+
+[demo_phone.webm](https://github.com/user-attachments/assets/772b2924-4ced-4ea2-b05d-da107e72c00a)
+
+
+
