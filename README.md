@@ -17,6 +17,4 @@ The project demonstrates clean layout, adaptive styling, and mobile-first respon
 
 ## Demo Videos
 
-- [Screen recording 1](videos/Screen_recording_2025-07-26_20.16.04.webm)
-- [Screen recording 2](videos/Screen_recording_2025-07-26_20.18.36.webm)
-- [Screen recording 3](videos/Screen_recording_2025-07-26_20.19.31.webm)
+- [Screen recording 1](https://github.com/user-attachments/assets/54744ca7-48a1-4416-93b2-8826fbcecad3)
