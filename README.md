@@ -15,5 +15,8 @@ The project demonstrates clean layout, adaptive styling, and mobile-first respon
 - CSS3  
 - Figma (UI/UX design)
 
+## Demo Videos
 
-
+- [Screen recording 1](videos/Screen_recording_2025-07-26_20.16.04.webm)
+- [Screen recording 2](videos/Screen_recording_2025-07-26_20.18.36.webm)
+- [Screen recording 3](videos/Screen_recording_2025-07-26_20.19.31.webm)
